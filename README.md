@@ -7,4 +7,4 @@
 </div>
 
 > [!NOTE]
-> This topic belongs to [miguelsolorio](https://github.com/miguelsolorio) This is only a version to support the [zed](https://github.com/zed-industries/zed).
+> This topic belongs to [miguelsolorio](https://github.com/miguelsolorio) This is only a version to support for [Zed](https://github.com/zed-industries/zed).
