@@ -1,0 +1,16 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "name": "Min theme for Zed",
+  "author": "castrogarciajs <castrogarcia.mjs@gmail.com>",
+  "themes": [
+    {
+      "name": "Min theme for Zed - Dark",
+      "appearance": "dark",
+      "style": {
+        "background": "#1f1f1f",
+        "editor.background": "#1f1f1f",
+        "editor.foreground": "#C1C1C1"
+      }
+    }
+  ]
+}
